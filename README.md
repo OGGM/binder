@@ -1,4 +1,4 @@
-# edu-binder
+# OGGM-Binder
 
 [![Build Status](https://travis-ci.org/OGGM/oggm-edu-r2d.svg?branch=master)](https://travis-ci.org/OGGM/oggm-edu-r2d)
 
