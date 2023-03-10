@@ -1,3 +1,3 @@
-FROM FROM ghcr.io/oggm/r2d:v1.5.3
+FROM FROM ghcr.io/oggm/r2d:latest
 ENV SLURM_JOB_CPUS_PER_NODE=1
 ENV OGGM_USE_MULTIPROCESSING=0
